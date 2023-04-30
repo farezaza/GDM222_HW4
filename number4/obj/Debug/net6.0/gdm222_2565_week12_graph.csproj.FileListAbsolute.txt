@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\bin\Debug\net6.0\gdm222_2565_week12_graph.exe
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\bin\Debug\net6.0\gdm222_2565_week12_graph.deps.json
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\bin\Debug\net6.0\gdm222_2565_week12_graph.runtimeconfig.json
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\bin\Debug\net6.0\gdm222_2565_week12_graph.dll
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\bin\Debug\net6.0\gdm222_2565_week12_graph.pdb
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.AssemblyInfo.cs
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.dll
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\refint\gdm222_2565_week12_graph.dll
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.pdb
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\gdm222_2565_week12_graph.genruntimeconfig.cache
+C:\Users\User\Desktop\Desktop_move\codehomework\HW4_2\gdm222_2565_week12_graph\obj\Debug\net6.0\ref\gdm222_2565_week12_graph.dll
